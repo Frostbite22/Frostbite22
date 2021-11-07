@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Mohamed Fares Landoulsi, a software engineering student at the Higher Institute of Informatics Ariana ( ISI Ariana ) located in Tunisia. 
+I'm ***Mohamed Fares Andaloussi***, a software engineering student at the Higher Institute of Informatics Ariana ( ISI Ariana ) located in Tunisia. 
 I keen on learning python, and everything related to artificial intelligence, include statistics, engineering, machine learning and maths. 
 check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi) for more details.
 
