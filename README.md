@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Mohamed Fares Landoulsi, a software engineering student at the Higher Institute of Informatics Ariana ( ISI Ariana ) located in Tunisia. 
+I keen on learning python, and everything related to artificial intelligence, include statistics, engineering, machine learning and maths. 
+check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi) for more details.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frostbite22)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Frostbite22/Frostbite22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
