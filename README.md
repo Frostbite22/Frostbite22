@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm ***Mohamed Fares Andaloussi***, a software engineering student at the Higher Institute of Informatics Ariana ( ISI Ariana ) located in Tunisia. 
-I keen on learning python, and everything related to artificial intelligence, include statistics, engineering, machine learning and maths. 
+I'm keen on learning python, C++, and everything related to artificial intelligence, include statistics, engineering, machine learning, deep learning, data science and maths. 
 check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi) for more details.
 
 - 🔭 I’m currently working on :
