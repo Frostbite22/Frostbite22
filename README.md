@@ -6,7 +6,7 @@ check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi
 
 - 🔭 I’m currently working on :
   -  Event management app (Django react mongodb) 
-  -  client-server programming project 
+  -  [client-server programming project](https://github.com/Frostbite22/client-server-python)
   -  NLP project 
 
 - 🌱 I’m currently learning : 
