@@ -5,17 +5,12 @@ I'm keen on learning python, C++, and everything related to artificial intellige
 check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi) for more details.
 
 - 🔭 I’m currently working on :
-  -  Event management app (Django react mongodb) 
-  -  [client-server programming project](https://github.com/Frostbite22/client-server-python)
-  -  NLP project 
+  -  World cup 2022 SpringBoot and Angular 13
+  -  Workshops and staff management SpringBoot and Angular 13 
 
 - 🌱 I’m currently learning : 
-  - probability and statistics
-  - deep learning
-  - C++
-  - python
   - JS
-  - React 
+  - Angular 13
 
 ## SKILLS 
 ### Languages 
@@ -29,6 +24,7 @@ check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi
 - <ing src="https://github.com/Frostbite22/Frostbite22/blob/main/flask.png" height='20'> Flask
 - <ing src="https://github.com/Frostbite22/Frostbite22/blob/main/spring.png" height='20'> Springboot 
 - <ing src="https://github.com/Frostbite22/Frostbite22/blob/main/rasa.png" height='20'> Rasa 
+- Angular 
 
 ### Databases 
 - <img src="https://github.com/Frostbite22/Frostbite22/blob/main/mysql.png" height='20'> MySql 
