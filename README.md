@@ -5,12 +5,12 @@ I'm keen on learning python, C++, and everything related to artificial intellige
 check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi) for more details.
 
 - 🔭 I’m currently working on :
-  -  World cup 2022 SpringBoot and Angular 13
-  -  Workshops and staff management SpringBoot and Angular 13 
+  -  Ionic Mobile App with Angular interacting With Camunda rest engine
 
 - 🌱 I’m currently learning : 
   - JS
   - Angular 13
+  - Ionic
 
 ## SKILLS 
 ### Languages 
