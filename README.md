@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fares Landoulsi</h1>
 <h3 align="center">A Software engineering student from Tunisia <img align="right" src="https://komarev.com/ghpvc/?username=frostbite22&label=Profile%20views&color=0e75b6&style=flat" alt="frostbite22" /> </h3>
 
-<p>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/779602225695898637/0807F669892C401BA9C1570B4C71CEAD8B20C116/" align="right" height="relative" width="330px">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" width="50%"><img src="https://github-profile-trophy.vercel.app/?username=frostbite22" alt="frostbite22" /></a> </p>
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/779602225695898637/0807F669892C401BA9C1570B4C71CEAD8B20C116/"  height="relative" width="400px">
+</p>
+   <p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frostbite22" alt="frostbite22" /></a>
+  </p>
 
 
 - 🔭 I’m currently working on [https://github.com/Frostbite22/ethers-simple-storage](https://github.com/Frostbite22/ethers-simple-storage)
