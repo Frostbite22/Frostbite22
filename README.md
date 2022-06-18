@@ -5,12 +5,12 @@ I'm keen on learning python, C++, and everything related to artificial intellige
 check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi) for more details.
 
 - 🔭 I’m currently working on :
-  -  Ionic Mobile App with Angular interacting With Camunda rest engine
+  -  Blockchain demo projects
 
 - 🌱 I’m currently learning : 
-  - JS
-  - Angular 13
-  - Ionic
+  - Blockchain
+  - Ethers JS
+  - Ethereum, chainLink 
 
 ## SKILLS 
 ### Languages 
@@ -25,6 +25,7 @@ check [my linkedin profile](https://www.linkedin.com/in/mohamed-fares-andaloussi
 - <ing src="https://github.com/Frostbite22/Frostbite22/blob/main/spring.png" height='20'> Springboot 
 - <ing src="https://github.com/Frostbite22/Frostbite22/blob/main/rasa.png" height='20'> Rasa 
 - Angular 
+- Ionic 
 
 ### Databases 
 - <img src="https://github.com/Frostbite22/Frostbite22/blob/main/mysql.png" height='20'> MySql 
