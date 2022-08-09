@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [https://github.com/Frostbite22/ethers-simple-storage](https://github.com/Frostbite22/ethers-simple-storage)
 
-- 🌱 I’m currently learning **Blockchain, Ethers JS**
+- 🌱 I’m currently learning **Blockchain, Ethers, hardhat, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Frostbite22/](https://github.com/Frostbite22/)
 
