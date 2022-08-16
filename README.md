@@ -12,7 +12,7 @@
   
 
 
-- 🔭 I’m currently working on [https://github.com/Frostbite22/ethers-simple-storage](https://github.com/Frostbite22/ethers-simple-storage)
+- 🔭 I’m currently working on [https://github.com/Frostbite22/DecentralizedCoursesBookingSystem](https://github.com/Frostbite22/DecentralizedCoursesBookingSystem)
 
 - 🌱 I’m currently learning **Blockchain, Ethers, hardhat, React**
 
