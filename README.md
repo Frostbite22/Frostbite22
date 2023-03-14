@@ -12,9 +12,9 @@
   
 
 
-- 🔭 I’m currently working on [https://github.com/Frostbite22/DecentralizedCoursesBookingSystem](https://github.com/Frostbite22/DecentralizedCoursesBookingSystem)
+- 🔭 I’m currently working on micro deep learning projects
 
-- 🌱 I’m currently learning **Blockchain, Ethers, hardhat, React**
+- 🌱 I’m currently learning **Deep Learning, convolutional neural networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Frostbite22/](https://github.com/Frostbite22/)
 
