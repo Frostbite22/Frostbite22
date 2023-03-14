@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fares Landoulsi</h1>
-<h3 align="center">A Software engineering student from Tunisia </h3>
-<p align="center">
-  <img  src="https://komarev.com/ghpvc/?username=frostbite22&label=Profile%20views&color=0e75b6&style=flat" alt="frostbite22" />
-</p>
+<h3 align="center"> Software engineer - AI Engineer </h3>
 
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/779602225695898637/0807F669892C401BA9C1570B4C71CEAD8B20C116/"  height="relative" width="400px">
