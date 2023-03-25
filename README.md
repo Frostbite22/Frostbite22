@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fares Landoulsi</h1>
-<h3 align="center"> Software engineer - AI Engineer </h3>
+<h3 align="center"> Software engineering Student</h3>
 
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/779602225695898637/0807F669892C401BA9C1570B4C71CEAD8B20C116/"  height="relative" width="400px">
