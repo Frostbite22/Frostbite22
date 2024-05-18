@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fares Landoulsi</h1>
-<h3 align="center"> Software engineering Student</h3>
+<h3 align="center"> Software engineer | AI engineer </h3>
 
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/779602225695898637/0807F669892C401BA9C1570B4C71CEAD8B20C116/"  height="relative" width="400px">
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on micro deep learning projects
 
-- 🌱 I’m currently learning **Deep Learning, convolutional neural networks**
+- 🌱 I’m currently learning **Deep Learning, LLMs, RAGs, generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Frostbite22/](https://github.com/Frostbite22/)
 
