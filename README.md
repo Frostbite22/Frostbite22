@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **landoulsiferes@outlook.com**
 
-- [recent projects on my portfolio](https://frostbite22.github.io/portfolio/)
+- [my portfolio](https://frostbite22.github.io/portfolio/)
 
  <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frostbite22" alt="frostbite22" /></a>
